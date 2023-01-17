@@ -94,6 +94,14 @@ Commit the changes from the Codespaces
 ![commitcode1](./doc/commitcode1.png)
 Run the build/tests from the Codespaces
 ![build](./doc/build.png)
+Run the application from the Codespaces
+![run](./doc/run.png)
+Expose the application to the public internet
+![exposed](./doc/exposed.png)
+![swaggerui](./doc/swaggerui.png)
+Stop the Codespaces
+![stopping](./doc/stopping.png)
+![stopped](./doc/stopped.png)
 
 ## Author
 
