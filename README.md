@@ -77,6 +77,13 @@ Codespaces is a cloud-hosted development environment with all the GitHub feature
 Benefits of Codespaces:
 * The best part of the Codespace is that you can completely personalize your configuration for not just yourself, but for everyone else in the repository.
 * It's a fantastic feature that allows users to configure their Virtual Development Environment in less 10 seconds.
+# Codespaces Setup
+To start the Codespaces
+![startcodespaces](./doc/startcodespaces.png)
+![yourcodespaces](./doc/yourcodespaces.png)
+![yourcodespaces1](./doc/yourcodespaces1.png)
+Codespace setup the workspacess 
+![workspacessetup](./doc/workspacessetup.png)
 
 ## Author
 
