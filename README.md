@@ -92,7 +92,8 @@ Plugin setup
 Commit the changes from the Codespaces
 ![commitcode](./doc/commitcode.png)
 ![commitcode1](./doc/commitcode1.png)
-
+Run the build/tests from the Codespaces
+![build](./doc/build.png)
 
 ## Author
 
