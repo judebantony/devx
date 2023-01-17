@@ -27,7 +27,7 @@ Product DX
 * IDEs and tooling
 * Scaffolding & Bootstrapping
 * API Design
-* Error messages and feedback backloops
+* Error messages and feedback loops
 * Dashboard/Admin IUs
 * Source control, search, code reviews and collaboration
 * CI/CD, Test Automation & DevSecOps
@@ -57,6 +57,27 @@ Community DX
 * Chat and support programs (Slack/Discord)
 * Live stream, meetups and conferences
 
+## Cloud Development Environment
+Cloud IDE or Cloud Dev Environments are complete development environment that runs on a cloud server instead of your developer workstation. So that developers can code from anywhere, if he/she has got good internet connectivity. This is very critical for overall developer experience.
+
+Some of the advantages of CDEs are:
+* Ephemeral - A fresh disposable development environment for every task.
+* Reproducible - Consistently replicable without manual intervention.
+* Effortless - With minimal friction and difficulty.
+* Abundant - Instantaneously obtainable, seemingly infinite.
+* Independent - Isolated and self-sufficient.
+* Powerful - Supports the most expansive development activities.
+* Equitable - Lowers the barrier to software development.
+* Collaborative - Enables collaboration across time, space and practice
+
+# Codespaces
+A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
+Codespaces is a cloud-hosted development environment with all the GitHub features. Developers can set up to load the code, dependencies, extensions, dotfiles, and even built-in debugger. While it includes a browser-based version of VS Code editor, developers can choose to use their desktop IDEs as well.
+
+Benefits of Codespaces:
+* The best part of the Codespace is that you can completely personalize your configuration for not just yourself, but for everyone else in the repository.
+* It's a fantastic feature that allows users to configure their Virtual Development Environment in less 10 seconds.
+
 ## Author
 
 * **Jude Antony**
@@ -66,4 +87,4 @@ Community DX
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
