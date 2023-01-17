@@ -80,9 +80,10 @@ Benefits of Codespaces:
 # Codespaces Setup
 To start the Codespaces
 ![startcodespaces](./doc/startcodespaces.png)
+Your Codespaces
 ![yourcodespaces](./doc/yourcodespaces.png)
 ![yourcodespaces1](./doc/yourcodespaces1.png)
-Codespace setup the workspacess 
+Codespace setup the workspaces
 ![workspacessetup](./doc/workspacessetup.png)
 
 ## Author
