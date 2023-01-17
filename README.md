@@ -80,11 +80,19 @@ Benefits of Codespaces:
 # Codespaces Setup
 To start the Codespaces
 ![startcodespaces](./doc/startcodespaces.png)
+![setupworspaces](./doc/setupworspaces.png)
 Your Codespaces
 ![yourcodespaces](./doc/yourcodespaces.png)
 ![yourcodespaces1](./doc/yourcodespaces1.png)
-Codespace setup the workspaces
+Codespaces setup the workspaces
 ![workspacessetup](./doc/workspacessetup.png)
+Plugin setup
+![pluginmavan](./doc/pluginmavan.png)
+![pluginkarate](./doc/pluginkarate.png)
+Commit the changes from the Codespaces
+![commitcode](./doc/commitcode.png)
+![commitcode1](./doc/commitcode1.png)
+
 
 ## Author
 
