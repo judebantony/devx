@@ -70,36 +70,36 @@ Some of the advantages of CDEs are:
 * Equitable - Lowers the barrier to software development.
 * Collaborative - Enables collaboration across time, space and practice
 
-# Codespaces
-A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
+## Codespaces
+A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable Codespace configuration for all users of your project.
 Codespaces is a cloud-hosted development environment with all the GitHub features. Developers can set up to load the code, dependencies, extensions, dotfiles, and even built-in debugger. While it includes a browser-based version of VS Code editor, developers can choose to use their desktop IDEs as well.
 
 Benefits of Codespaces:
 * The best part of the Codespace is that you can completely personalize your configuration for not just yourself, but for everyone else in the repository.
 * It's a fantastic feature that allows users to configure their Virtual Development Environment in less 10 seconds.
-# Codespaces Setup
-To start the Codespaces
+## Codespaces Setup
+### To start the Codespaces
 ![startcodespaces](./doc/startcodespaces.png)
 ![setupworspaces](./doc/setupworspaces.png)
-Your Codespaces
+### Your Codespaces
 ![yourcodespaces](./doc/yourcodespaces.png)
 ![yourcodespaces1](./doc/yourcodespaces1.png)
-Codespaces setup the workspaces
+### Codespaces setup the workspaces
 ![workspacessetup](./doc/workspacessetup.png)
-Plugin setup
+### Plugin setup
 ![pluginmavan](./doc/pluginmavan.png)
 ![pluginkarate](./doc/pluginkarate.png)
-Commit the changes from the Codespaces
+### Commit the changes from the Codespaces
 ![commitcode](./doc/commitcode.png)
 ![commitcode1](./doc/commitcode1.png)
-Run the build/tests from the Codespaces
+### Run the build/tests from the Codespaces
 ![build](./doc/build.png)
-Run the application from the Codespaces
+### Run the application from the Codespaces
 ![run](./doc/run.png)
-Expose the application to the public internet
+### Expose the application to the public internet
 ![exposed](./doc/exposed.png)
 ![swaggerui](./doc/swaggerui.png)
-Stop the Codespaces
+### Stop the Codespaces
 ![stopping](./doc/stopping.png)
 ![stopped](./doc/stopped.png)
 
